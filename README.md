@@ -7,5 +7,7 @@
 3. Compilar e executar seus primeiros programas em C++.
 4. Entender os principais tipos de dados e as diferenças entre valores primitivos e referências (ponteiros).
 
+5. Este código foi alterado.
+
 ---
 > “First, solve the problem. Then, write the code.” –> John Johnson 
